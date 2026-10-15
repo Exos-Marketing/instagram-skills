@@ -1,3 +1,24 @@
+# Instagram Skills para o Claude (em português)
+
+> **Cópia mantida pela [Exos Marketing](https://www.instagram.com/exosmkt/).** As 9 skills foram criadas por **Serge Bulaev** e estão aqui sob a licença MIT, sem alteração no código. Repositório original: [sergebulaev/instagram-skills](https://github.com/sergebulaev/instagram-skills).
+
+## Instalação em 1 minuto
+
+Abra o **Claude Code** no computador e cole isto:
+
+```
+/plugin marketplace add Exos-Marketing/instagram-skills
+/plugin install instagram-skills@instagram-skills
+```
+
+Feche e abra o Claude Code de novo. Depois é só pedir do seu jeito, por exemplo: `escreve a legenda desse Reels com um gancho forte` ou `planeja minha semana no Instagram`.
+
+**O que vem:** legenda com gancho, carrossel slide a slide, hashtags no tamanho certo, texto sem cara de IA, planejamento da semana, leitura do que está bombando no seu nicho, reaproveitamento de conteúdo e otimização do perfil. Nada é publicado sem a sua aprovação.
+
+**Detalhes:** a leitura do nicho usa um token grátis da Apify; publicar direto só se você conectar a Publora (opcional). As outras formas de instalar (Codex, Claude no navegador) estão logo abaixo, no texto original do autor.
+
+---
+
 <p align="center">
   <img src="assets/hero.png" alt="Instagram marketing skills for Claude Code and Codex, open source MIT licensed" width="900" />
 </p>
